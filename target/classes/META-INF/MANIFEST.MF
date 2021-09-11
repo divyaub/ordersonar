@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: HP
+Build-Jdk: 16.0.2
+Implementation-Title: Order-Microservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.infosys.infymarket.order
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/OrderMS
+Created-By: Maven Integration for Eclipse
+
